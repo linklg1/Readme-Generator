@@ -3,9 +3,9 @@
 A script application that generates a professional README.md File with details of a project.
 
 
-Video link of running application:
+Video link of running application: [https://youtu.be/pFk1FjP-w7A](https://youtu.be/pFk1FjP-w7A)
 
-Github Repo: [https://github.com/linklg1/Readme-Generator.git] (https://github.com/linklg1/Readme-Generator.git)
+Github Repo: [https://github.com/linklg1/Readme-Generator.git](https://github.com/linklg1/Readme-Generator.git)
 
 
 ## User Story
